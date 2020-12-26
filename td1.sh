@@ -71,6 +71,4 @@
 		whois ${1} | grep "Registrar URL" | awk '{if(NR==1) print $0}'
 		whois ${1} | grep "Registry Expiry Date:" | awk '{if(NR==1) print $0}'
 		echo ""
-
-
 	fi
