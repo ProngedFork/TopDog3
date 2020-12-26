@@ -1,7 +1,7 @@
 # TopDog3
 This Repository Contains Simple Tools That Are Written In Bash For Reconnaissance
 
-## As of December 2020, TopDog3 is capable of performing the following:
+## As of December 2020, td1.sh is capable of performing the following:
 1. IP resolution using ping command
 2. Enumerating Geolocation details associated with the IP address using http://ipinfo.io
 3. Headers collection using Curl command
